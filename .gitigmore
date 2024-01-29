@@ -1,5 +1,5 @@
 _site
-
+./_site
 # Ignore compiled and generated files
 node_modules/
 dist/
